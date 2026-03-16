@@ -267,6 +267,16 @@ ___
 | <sub>[Art Valuation](https://github.com/ahmedhosny/theGreenCanvas/blob/gh-pages/ImageProcessing1210.ipynb)</sub>                                                                   | <sub>Art evaluation analytics.</sub>                                                                              | <sub>2014-12-11 00:25:39</sub> | <sub>2014-12-12 21:25:46</sub> | <sub>19.0</sub>         | <sub>:heavy_multiplication_x:</sub> | <sub></sub>         |
 | <sub>[Blockchain](https://github.com/nud3l/dInvest)</sub>                                                                                                                          | <sub>Repository for distributed autonomous investment banking.</sub>                                              | <sub>2016-09-05 19:12:40</sub> | <sub>2017-04-24 10:48:56</sub> | <sub>18.0</sub>         | <sub>:heavy_multiplication_x:</sub> | <sub></sub>         |<!-- [PLACEHOLDER_END:alternative_finance] -->
 
+
+## Insurance Pricing
+| <sub>repo</sub> | <sub>comment</sub> | <sub>created_at</sub> | <sub>last_commit</sub> | <sub>star_count</sub> | <sub>repo_status</sub> | <sub>rating</sub> |
+|:---|:---|:---|:---|:---|:---|:---|
+| <sub>[insurance-fairness](https://github.com/burning-cost/insurance-fairness)</sub> | <sub>Proxy discrimination auditing for insurance pricing models.</sub> | <sub>2024-01-01</sub> | <sub>2025-01-01</sub> | <sub></sub> | <sub>:heavy_check_mark:</sub> | <sub></sub> |
+| <sub>[insurance-conformal](https://github.com/burning-cost/insurance-conformal)</sub> | <sub>Conformal prediction intervals for Tweedie/Poisson insurance models with exposure weighting.</sub> | <sub>2024-01-01</sub> | <sub>2025-01-01</sub> | <sub></sub> | <sub>:heavy_check_mark:</sub> | <sub></sub> |
+| <sub>[insurance-causal](https://github.com/burning-cost/insurance-causal)</sub> | <sub>Double machine learning for causal inference in insurance pricing. CatBoost nuisance models, confounding bias reports.</sub> | <sub>2024-01-01</sub> | <sub>2025-01-01</sub> | <sub></sub> | <sub>:heavy_check_mark:</sub> | <sub></sub> |
+| <sub>[shap-relativities](https://github.com/burning-cost/shap-relativities)</sub> | <sub>Extract multiplicative rating relativities from gradient boosting models using SHAP.</sub> | <sub>2024-01-01</sub> | <sub>2025-01-01</sub> | <sub></sub> | <sub>:heavy_check_mark:</sub> | <sub></sub> |
+| <sub>[insurance-governance](https://github.com/burning-cost/insurance-governance)</sub> | <sub>PRA SS1/23-compliant model validation reports for UK insurance pricing models.</sub> | <sub>2024-01-01</sub> | <sub>2025-01-01</sub> | <sub></sub> | <sub>:heavy_check_mark:</sub> | <sub></sub> |
+
 # Extended Research ([Wiki](https://github.com/firmai/financial-machine-learning/wiki/extended_research))
 <!-- [PLACEHOLDER_START:extended_research] --> 
 | <sub>repo</sub>                                                                                        | <sub>comment</sub>                                                                          | <sub>created_at</sub>          | <sub>last_commit</sub>         | <sub>star_count</sub>   | <sub>repo_status</sub>              | <sub>rating</sub>   |
